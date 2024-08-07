@@ -37,7 +37,7 @@ export default function Page() {
                 />
               </svg>
             </a>
-  
+          </div>
   
           <SignUp />
         </div>
